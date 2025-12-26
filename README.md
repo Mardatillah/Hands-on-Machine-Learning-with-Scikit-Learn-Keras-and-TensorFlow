@@ -1,4 +1,6 @@
 # Hands on Machine Learning with Scikit Learn Keras and TensorFlow
+<img src="https://github.com/Mardatillah/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/ba43a63b64ae71345c66a64d66aed6020e0cbaff/Cover.png" width="300" alt="Book Cover">
+
 Chapter 1 — The Machine Learning Landscape
 
 - Introduction to what machine learning is, its applications, and challenges.
